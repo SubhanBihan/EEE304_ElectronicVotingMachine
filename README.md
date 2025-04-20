@@ -1,3 +1,4 @@
+# Electronic Voting Machine
 A simplified Electronic Voting Machine (EVM) in Verilog.
 Initially, the system verifies a voter's identity by checking their serial number (voter ID). 
 Once it confirms that no vote has been previously registered under the same serial number, an authentication signal is generated. 
